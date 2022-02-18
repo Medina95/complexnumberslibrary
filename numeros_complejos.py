@@ -39,7 +39,7 @@ def convPolarCartesiano(o):
 # Press the green button in the gutter to run the script.
 
 if __name__ == '__main__':
-    print(sumaplx((3, -1), (1, 4)))
+    print(sumaplx((1, 2), (2, 1)))
     print(multiplicacion((3, -2), (1, 2)))
     print(division((-2, 1), (1, 2)))
     print(resta((-2, 1), (1, 2)))
