@@ -74,3 +74,8 @@ Tras hacer un clic, es decir, moverse en una unidad de tiempo en el experimento,
 La grafica del vector de estados del experimento probabilístico resulta:
 
 ![img_17.png](img_17.png)
+
+Autores
+
+Carolina Medina Acero
+Andrea Valentina Torres Tobar
