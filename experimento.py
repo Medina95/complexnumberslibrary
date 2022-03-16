@@ -89,3 +89,4 @@ if __name__ == '__main__':
     tupla = multiplesrendijasC(2, 5, 1)
     imprimirMatriz(tupla[0])
     print(tupla[1])
+

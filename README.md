@@ -75,6 +75,16 @@ La grafica del vector de estados del experimento probabilístico resulta:
 
 ![img_17.png](img_17.png)
 
+Explicación:
+
+Cuando un fotón pasa por el experimento de doble rendija no se divide, sino que toma varias historias, en nuestros sistemas determinísticos, probabilísticos y cuánticos realizados en las librerías podemos observar que las probabilidades nos dan una medida de proporción de universos en los que el fotón toma cada uno de los valores siguiendo un mismo patrón, demostrándonos que existe un multiverso. Por otro parte las rayitas de interferencia que se forman se pueden explicar porque en el momento que pasa por la doble rendija las historias de ese fotón interfieren entre si provocando que se anulen.
+
+Requisitos para poder usar la librería
+
+Tener instalado Python, preferiblemente la versión 3.10
+Instalar las librerías numpy y matplotlib :
+https://www.youtube.com/watch?v=QONf0jju_os
+
 Autores
 
 Carolina Medina Acero
